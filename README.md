@@ -1,3 +1,6 @@
+#$# https://dbaclass.com/article/ora-29280-invalid-directory-path-ora-06512sys-utl_file/
+#### reviewww desde la terminal de putty
+
 # SOMANY_FILES_THEN
 https://stackoverflow.com/questions/3750192/how-to-write-to-files-using-utl-file-in-oracle
 
