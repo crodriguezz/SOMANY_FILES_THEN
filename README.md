@@ -11,6 +11,10 @@ https://stackoverflow.com/questions/3750192/how-to-write-to-files-using-utl-file
 
 https://stackoverflow.com/questions/3750192/how-to-write-to-files-using-utl-file-in-oracle
 
+
+#### TECJJSJSJS
+https://docs.oracle.com/database/121/ARPLS/u_file.htm#ARPLS70919
+
 # # # # # BBBBBB
 
 ----https://rstopup.com/como-escribir-en-los-archivos-utilizando-utl_file-en-oracle.html-----
