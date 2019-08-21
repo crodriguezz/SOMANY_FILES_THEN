@@ -1,5 +1,24 @@
-#$# https://dbaclass.com/article/ora-29280-invalid-directory-path-ora-06512sys-utl_file/
+####$# https://dbaclass.com/article/ora-29280-invalid-directory-path-ora-06512sys-utl_file/
+
 #### reviewww desde la terminal de putty
+
+
+
+#####
+
+https://support.oracle.com/knowledge/Oracle%20Database%20Products/292961_1.html
+
+https://www.google.com/search?client=firefox-b-d&ei=GYZbXZHMLa-C5wLmvquwCw&q=PLS-00201%3A+identifier+%27UTL_FILE%27+must+be+declared&oq=PLS-00201%3A+identifier+%27UTL_FILE%27+must+be+declared&gs_l=psy-ab.3..0i71l8.332944.332944..333317...0.4..0.0.0.......0....2j1..gws-wiz.0TCmuTm__2s&ved=0ahUKEwjRvNnX3JDkAhUvwVkKHWbfCrYQ4dUDCAo&uact=5
+
+http://www.orafaq.com/forum/t/183522/
+
+https://www.experts-exchange.com/questions/20984148/UTL-File-FOpen-error-ORA-29280-invalid-directory-path.html
+
+https://asktom.oracle.com/pls/apex/asktom.search?tag=utl-file-200806
+
+https://www.google.com/search?client=firefox-b-d&biw=1024&bih=654&ei=lPBcXcnQKaeD5wKCkLzQAg&q=oracle+pl+sql+utl_file+fopen+invalid+directory+path&oq=pl%2Fsql+Oracle+UTL_FILE+&gs_l=psy-ab.3.2.0i22i30l10.2188768.2188768..2193207...0.2..0.108.108.0j1......0....1..gws-wiz.......0i71.Aksoe2ZDxnY
+
+
 
 # SOMANY_FILES_THEN
 https://stackoverflow.com/questions/3750192/how-to-write-to-files-using-utl-file-in-oracle
